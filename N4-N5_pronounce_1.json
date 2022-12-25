@@ -1,8 +1,7 @@
-{
+[{
     "id": 1,
     "category": "文字",
-    "question": [
-        {
+    "question": [{
             "id": 1,
             "content": "この 町の 【人口】は どのぐらいですか。",
             "options": [
@@ -333,4 +332,4 @@
             "answer": "はたらいて"
         }
     ]
-}
+}]
