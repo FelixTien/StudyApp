@@ -1,0 +1,20 @@
+[
+{
+    "id": 13,
+    "category": "チェックリスト",
+    "level": "N2",
+    "question": [{
+            "id": 1,
+            "like": false,
+            "content": "",
+            "options": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": ""
+        }
+    ]
+}
+]
