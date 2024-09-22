@@ -71,7 +71,9 @@
     "checklist_5": "E.g. Bookmarks Test",
     "explainPractice": "Click the red button at right bottom of the screen, the lesson that you just practiced will be makred.",
     "explainTest": "The lesson has been marked indecats the one you did not perform well on the test and you should study it again.",
-    "encourage": "Let's Go"
+    "encourage": "Let's Go",
+    "paywallTitle": "Annual Trial",
+    "paywallContent": "Cancel anytime before the trial ends to avoid charges. Subscription renews automatically unless canceled."
 },
     {
         "id": 2,
@@ -146,7 +148,9 @@
         "checklist_5": "表示例：チェックリストテスト",
         "explainPractice": "説明：右下の赤いボタンを押すと、勉強したばがりのテスト項目が赤枠で表示されます。",
         "explainTest": "説明：赤枠で表示された項目は、成績が悪いので復習が必要です。もう一度やってみましょう！",
-        "encourage": "頑張れ"
+        "encourage": "頑張れ",
+        "paywallTitle": "Annual Trial",
+        "paywallContent": "Cancel anytime before the trial ends to avoid charges. Subscription renews automatically unless canceled."
     },
     {
         "id": 3,
@@ -221,7 +225,9 @@
         "checklist_5": "範例：收藏的題目 考試",
         "explainPractice": "說明：點選右下角的紅色按鈕，此次練習的章節將會被紅色框框標記下來喔！",
         "explainTest": "說明：被紅色框框圈起來的練習章節代表考試不理想需要再複習的章節。繼續加油吧！",
-        "encourage": "加油"
+        "encourage": "加油",
+        "paywallTitle": "年度試用",
+        "paywallContent": "試用期間可隨時取消以避免產生費用。如未取消，系統將自動續訂年度產品。"
     },
     {
         "id": 4,
@@ -296,5 +302,7 @@
         "checklist_5": "예시) 단어장 시험",
         "explainPractice": "화면의 오른쪽 하단에 위치한 빨간 버튼을 누르면 연습한 쳅터가 마크됩니다.",
         "explainTest": "마크된 쳅터는 시험에서 좋은 성적을 받지 못한 쳅터와 함께 나타납니다. 연습모드를 다시 수강하기를 추천합니다.",
-        "encourage": "힘내라"
+        "encourage": "힘내라",
+        "paywallTitle": "Annual Trial",
+        "paywallContent": "Cancel anytime before the trial ends to avoid charges. Subscription renews automatically unless canceled."
     }]
