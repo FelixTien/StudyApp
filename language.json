@@ -73,7 +73,9 @@
     "explainTest": "The lesson has been marked indecats the one you did not perform well on the test and you should study it again.",
     "encourage": "Let's Go",
     "paywallTitle": "Annual Trial",
-    "paywallContent": "Cancel anytime before the trial ends to avoid charges. Subscription renews automatically unless canceled."
+    "paywallContent": "Cancel anytime before the trial ends to avoid charges. Subscription renews automatically unless canceled.",
+    "promoteText": "Remove Ads?",
+    "promoteNavigate": "Join Membership"
 },
     {
         "id": 2,
@@ -150,7 +152,9 @@
         "explainTest": "説明：赤枠で表示された項目は、成績が悪いので復習が必要です。もう一度やってみましょう！",
         "encourage": "頑張れ",
         "paywallTitle": "年間トライアル",
-        "paywallContent": "トライアル期間中はいつでもキャンセル可能です。途中でキャンセルした場合は料金が発生しません。キャンセルしない場合、システムは自動的に有料年間プランを更新します。"
+        "paywallContent": "トライアル期間中はいつでもキャンセル可能です。途中でキャンセルした場合は料金が発生しません。キャンセルしない場合、システムは自動的に有料年間プランを更新します。",
+        "promoteText": "Remove Ads?",
+        "promoteNavigate": "Join Membership"
     },
     {
         "id": 3,
@@ -227,7 +231,9 @@
         "explainTest": "說明：被紅色框框圈起來的練習章節代表考試不理想需要再複習的章節。繼續加油吧！",
         "encourage": "加油",
         "paywallTitle": "年度試用",
-        "paywallContent": "試用期間可隨時取消以避免產生費用。如未取消，系統將自動續訂年度產品。"
+        "paywallContent": "試用期間可隨時取消以避免產生費用。如未取消，系統將自動續訂年度產品。",
+        "promoteText": "移除廣告嗎？",
+        "promoteNavigate": "加入會員"
     },
     {
         "id": 4,
@@ -304,5 +310,7 @@
         "explainTest": "마크된 쳅터는 시험에서 좋은 성적을 받지 못한 쳅터와 함께 나타납니다. 연습모드를 다시 수강하기를 추천합니다.",
         "encourage": "힘내라",
         "paywallTitle": "Annual Trial",
-        "paywallContent": "Cancel anytime before the trial ends to avoid charges. Subscription renews automatically unless canceled."
+        "paywallContent": "Cancel anytime before the trial ends to avoid charges. Subscription renews automatically unless canceled.",
+        "promoteText": "Remove Ads?",
+        "promoteNavigate": "Join Membership"
     }]
